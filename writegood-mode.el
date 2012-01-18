@@ -91,7 +91,7 @@
     "clearly" "vast" "relatively" "completely" "literally" 
     "not rocket science" "outside the box" "super" "leveraged" "harness"
     "incentivize" "engagement" "intensive" "Needless to say"
-    "It goes without saying" "absolutely")
+    "It goes without saying" "absolutely" "indeed")
   "The weasel words to use"
   :group 'writegood
   :type 'list)
