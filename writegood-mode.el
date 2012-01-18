@@ -89,7 +89,9 @@
     "mostly" "largely" "huge" "tiny" "are a number" "is a number" 
     "excellent" "interestingly" "significantly" "substantially" 
     "clearly" "vast" "relatively" "completely" "literally" 
-    "not rocket science" "outside the box")
+    "not rocket science" "outside the box" "super" "leveraged" "harness"
+    "incentivize" "engagement" "intensive" "Needless to say"
+    "It goes without saying" "absolutely")
   "The weasel words to use"
   :group 'writegood
   :type 'list)
